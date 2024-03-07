@@ -1,19 +1,12 @@
 ## _Automatic inventory management System_
 
-Made by Kabir Chawla (https://github.com/kabirchawla2003) and Harshit Aggarwal (https://github.com/Blasterharsh99)
-
+Made by Kabir Chawla and Harshit Aggarwal
 
 ## Features
 
 - Real time
 - Low computational cost
 - Works from any android smartphone
-
-## Tech
-
-- Ultralytics' YOLOv8 (https://github.com/ultralytics/ultralytics)
-- Open CV (https://github.com/opencv/opencv)
-- 
 
 ## Installation
 
@@ -30,3 +23,7 @@ pip install -r requirements.txt
 ```sh
 python app.py
 ```
+## Credits and references:
+- Ultralytics' YOLOv8 (https://github.com/ultralytics/ultralytics)
+- Open CV (https://github.com/opencv/opencv)
+- Dataset: SKU 110k (https://paperswithcode.com/dataset/sku110k)
