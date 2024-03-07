@@ -23,7 +23,9 @@ pip install -r requirements.txt
 ```sh
 python app.py
 ```
-## Credits and references:
+## Credits and references
 - Ultralytics' YOLOv8 (https://github.com/ultralytics/ultralytics)
 - Open CV (https://github.com/opencv/opencv)
 - Dataset: SKU 110k (https://paperswithcode.com/dataset/sku110k)
+- Harshit: https://github.com/Blasterharsh99/
+- Kabir: https://github.com/kabirchawla2003
