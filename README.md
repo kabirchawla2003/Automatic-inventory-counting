@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ```sh
 python app.py
 ```
+5. Open the link given by the output
 ## Credits and references
 - Ultralytics' YOLOv8 (https://github.com/ultralytics/ultralytics)
 - Open CV (https://github.com/opencv/opencv)
